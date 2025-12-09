@@ -13,9 +13,8 @@ import DarkModeSwitch from "@/components/ui/dark-mode-switch";
 import { DISCORD_URL, GITHUB_URL } from "@/data/meta";
 
 const NAV_ITEMS = [
-  { name: "Snippets", url: "/snippets" },
+  { name: "Prompts", url: "/prompts" },
   { name: "Guide", url: "/guide" },
-  { name: "Extensions", url: "/extensions" },
   { name: "Community", url: "/community" },
   { name: "Contributing", url: "/contributing" },
 ];
